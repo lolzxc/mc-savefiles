@@ -1408,6 +1408,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2024-05-10 18:22:04 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2024-05-10 18:32:30 +0800"
@@ -1423,12 +1429,6 @@
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_soul_sand": "2024-05-10 18:32:30 +0800"
-    },
-    "done": true
-  },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_leggings": "2024-05-10 18:22:04 +0800"
     },
     "done": true
   },
